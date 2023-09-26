@@ -3,30 +3,33 @@
 class Window : public Gtk::Window {
 public:
     Gtk::Box box;
-    Gtk::Entry entry;
+    Gtk::Label firstname_label;
+    Gtk::Entry firstname;
+    Gtk::Label lastname_label;
+    Gtk::Entry lastname;
     Gtk::Button button;
     Gtk::Label label;
 
     Window() : box(Gtk::Orientation::ORIENTATION_VERTICAL) {
-        button.set_label("Click here");
-
-        box.pack_start(entry);  // Add the widget entry to box
-        box.pack_start(button); // Add the widget button to box
-        box.pack_start(label);  // Add the widget label to box
+        button.set_label("Combine names");
+        firstname_label.set_text("First name");
+        lastname_label.set_text("Last name");
+        box.pack_start(firstname_label);
+        box.pack_start(firstname);
+        box.pack_start(lastname_label);
+        box.pack_start(lastname);
+        box.pack_start(button);
+        box.pack_start(label);
 
         add(box);   // Add vbox to window
         show_all(); // Show all widgets
 
-        entry.signal_changed().connect([this]() {
-            label.set_text("Entry now contains: " + entry.get_text());
-        });
-
-        entry.signal_activate().connect([this]() {
-            label.set_text("Entry activated");
-        });
-
         button.signal_clicked().connect([this]() {
-            label.set_text("Button clicked");
+            if (!firstname.get_text().empty() && !lastname.get_text().empty()) {
+                label.set_text("Names combined: "+ firstname.get_text() + " " + lastname.get_text());
+            } else {
+                label.set_text("No names given.");
+            }
         });
     }
 };
