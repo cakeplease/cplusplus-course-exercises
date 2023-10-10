@@ -1,4 +1,4 @@
-//Klassen skal ikke kjøres siden den inneholder ingen int() metode. Brukes i andre oppgaver.
+#include <iostream>
 
 const double pi = 3.141592;
 
@@ -11,7 +11,6 @@ private:
     double radius;
 };
 
-// ==> Implementasjon av klassen Circle
 Circle::Circle(double radius_) : radius(radius_) {}
 
 int Circle::get_area() const {
@@ -20,4 +19,8 @@ int Circle::get_area() const {
 
 double Circle::get_circumference() const {
     return 2.0 * pi * radius;
+}
+
+int main() {
+    std::cout << "hello?" << std::endl;
 }

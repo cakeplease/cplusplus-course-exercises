@@ -1,0 +1,3 @@
+C:/Users/kasia/Desktop/ProjectFiles/cplusplus-course-exercises/new/oving3/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/kasia/Desktop/ProjectFiles/cplusplus-course-exercises/new/oving3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kasia/Desktop/ProjectFiles/cplusplus-course-exercises/new/oving3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
