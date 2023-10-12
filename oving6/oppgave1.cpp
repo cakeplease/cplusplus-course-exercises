@@ -6,7 +6,7 @@
 
 
 /**
- * This code is based on example1.cpp from Ole Christian Eidheim fra leksjonen om Funksjonsobjekter og trådprogrammering: https://gitlab.com/ntnu-iini4003/examples6/-/blob/master/example1.cpp?ref_type=heads
+ * This code is based on example1.cpp from Ole Christian Eidheim from lecture:Funksjonsobjekter og trådprogrammering: https://gitlab.com/ntnu-iini4003/examples6/-/blob/master/example1.cpp?ref_type=heads
  */
 
 using namespace std;

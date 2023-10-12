@@ -1,4 +1,0 @@
-C:/Users/kasia/Desktop/ProjectFiles/cplusplus-course-exercises/oving6/cmake-build-debug/CMakeFiles/oppgave1.dir
-C:/Users/kasia/Desktop/ProjectFiles/cplusplus-course-exercises/oving6/cmake-build-debug/CMakeFiles/oppgave2.dir
-C:/Users/kasia/Desktop/ProjectFiles/cplusplus-course-exercises/oving6/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/kasia/Desktop/ProjectFiles/cplusplus-course-exercises/oving6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
