@@ -1,6 +1,6 @@
-#include "fraction.hpp"
 #include <iostream>
 #include <string>
+#include "fraction.cpp"
 
 using namespace std;
 
