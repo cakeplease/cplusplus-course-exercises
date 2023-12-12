@@ -1,8 +1,0 @@
-# ninja log v5
-1	45	7183168377831493	CMakeFiles/oppgave1.dir/oppgave1.cpp.obj	bf8a55fdb9f31e8
-0	46	7183169098463327	CMakeFiles/test.dir/oppgave1.cpp.obj	ecfa2681dd5a2a6b
-0	210	7183169533559091	CMakeFiles/test.dir/oppgave1.cpp.obj	ecfa2681dd5a2a6b
-214	286	7183169534274453	test.exe	b032202a2737496a
-2	45	7183169832064981	CMakeFiles/test.dir/oppgave1.cpp.obj	ecfa2681dd5a2a6b
-1	218	7183170217812129	CMakeFiles/test.dir/oppgave1.cpp.obj	ecfa2681dd5a2a6b
-218	290	7183170218491369	test.exe	b032202a2737496a
