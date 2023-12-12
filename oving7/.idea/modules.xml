@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<<< HEAD:eksamen-oving/.idea/modules.xml
       <module fileurl="file://$PROJECT_DIR$/.idea/eksamen-oving.iml" filepath="$PROJECT_DIR$/.idea/eksamen-oving.iml" />
+========
+      <module fileurl="file://$PROJECT_DIR$/.idea/oving7.iml" filepath="$PROJECT_DIR$/.idea/oving7.iml" />
+>>>>>>>> be651ecc7aec0c49dd2a84a22101c5f6ff197491:oving7/.idea/modules.xml
     </modules>
   </component>
 </project>
