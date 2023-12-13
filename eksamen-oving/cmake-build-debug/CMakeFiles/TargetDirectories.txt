@@ -1,4 +1,0 @@
-/home/kasia/1Projects/cplusplus-course-exercises/eksamen-oving/cmake-build-debug/CMakeFiles/oppgave1.dir
-/home/kasia/1Projects/cplusplus-course-exercises/eksamen-oving/cmake-build-debug/CMakeFiles/oppgave2.dir
-/home/kasia/1Projects/cplusplus-course-exercises/eksamen-oving/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/kasia/1Projects/cplusplus-course-exercises/eksamen-oving/cmake-build-debug/CMakeFiles/rebuild_cache.dir
